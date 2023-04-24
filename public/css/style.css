@@ -1,0 +1,13 @@
+.monospace {
+    font-family: 'Alkatra', cursive;
+}
+
+.table-equal {
+    height: 400px;
+    overflow-y: scroll; 
+  }
+
+.table-equalmin {
+    height: 200px;
+    overflow-y: scroll; 
+  }
